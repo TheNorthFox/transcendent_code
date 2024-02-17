@@ -1,0 +1,30 @@
+<div class="container text-center" style="padding-top: 40px">
+  <h3>Transcendent Endeavors code challenge</h3>
+  <div style="padding: 40px"></div>
+  <div class="row row-cols-2">
+    <div class="col"><app-add-inputs></app-add-inputs></div>
+    <div class="col">
+      <h2>Data fetched from the Database</h2>
+      <table class="table table-striped table-hover">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Input</th>
+            <th scope="col">Multiplied by 2</th>
+            <th scope="col">Squared Value</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let input of inputValue">
+            <td>{{ input.id }}</td>
+            <td>{{ input.input }}</td>
+            <td>{{ input.multiplyBy2 }}</td>
+            <td>{{ input.square }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<router-outlet></router-outlet>

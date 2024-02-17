@@ -1,0 +1,29 @@
+<div class="card text-center">
+  <div class="card-header">
+    <h4>Project demo</h4>
+  </div>
+  <div class="card-body">
+    <h4 class="card-title">Instruction</h4>
+    <p>Enter a number n into the input field and click the Calculate button</p>
+
+    <form (ngSubmit)="onSubmit()">
+      <div class="mb-3">
+        <input
+          type="text"
+          [(ngModel)]="formData.input"
+          [ngModelOptions]="{ standalone: true }"
+          placeholder="Add an integer"
+        />
+      </div>
+      <button class="btn btn-success btn-lg" type="submit">Calculate</button>
+    </form>
+  </div>
+  <div class="card-footer text-body-secondary">
+    <div *ngIf="value">
+      <p>#: {{ value.id }}</p>
+      <p>Input: {{ value.input }}</p>
+      <p>Multiplied By 2: {{ value.multiplyBy2 }}</p>
+      <p>Squared Value: {{ value.square }}</p>
+    </div>
+  </div>
+</div>

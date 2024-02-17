@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class InputValue {}","map":{"version":3,"names":["InputValue"],"sources":["/Users/minyahil/projectView/src/InputValue.ts"],"sourcesContent":["export class InputValue{\n    id: Number;\n    input: string;\n    result: string;\n    square: string;\n\n}"],"mappings":"AAAA,OAAM,MAAOA,UAAU"},"metadata":{},"sourceType":"module","externalDependencies":[]}
