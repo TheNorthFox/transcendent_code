@@ -19,6 +19,17 @@ Open terminal and Run the following command from the root directory
 `./mvnw spring-boot:run`
 
 
-<video controls src="1.mp4" title="Title"></video>
+<video controls src="demo.mov" title="Title"></video>
 
-![alt text](11.png) ![alt text](12.png) ![alt text](13.png) ![alt text](14.png)
+Client View
+
+![alt text](11.png) 
+Postman
+
+![alt text](12.png)
+
+
+![alt text](13.png) 
+
+Data from the Database 
+![alt text](14.png)
