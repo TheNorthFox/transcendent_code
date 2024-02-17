@@ -20,8 +20,7 @@ Open terminal and Run the following command from the root directory
 
 
 Project Demo
-[![Project Demo
-HERE](https://i9.ytimg.com/vi/qbErofytyao/mq1.jpg?sqp=CKSFxa4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogZSgYMA8=&rs=AOn4CLDN0PxhqyNr5IM4rVmBmNYx3SmnBg)](https://youtu.be/qbErofytyao?si=ZjPoIYbEuhQ5qF2-)
+[![Project Demo](https://i9.ytimg.com/vi/qbErofytyao/mq1.jpg?sqp=CKSFxa4G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDogZSgYMA8=&rs=AOn4CLDN0PxhqyNr5IM4rVmBmNYx3SmnBg)](https://youtu.be/qbErofytyao?si=ZjPoIYbEuhQ5qF2-)
 
 Client View
 
