@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { InputValue } from 'src/InputValue';
 import { ValueService } from './services/value.service';
-import { NgbModal } from '@ng-bootstrap/ng-bootstrap';
 import { Subscription, interval } from 'rxjs';
 
 @Component({
