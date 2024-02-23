@@ -4,19 +4,20 @@
 
 ## Frontend 
 Open terminal and Run the following command from the root directory
-`cd frontend`
 
-`npm install`
+-  `cd frontend`
 
-Run `ng serve -o`  then  Navigate to `http://localhost:4200/`. The application will automatically reload 
+-  `npm install`
+
+-  `ng serve -o`  then  Navigate to `http://localhost:4200/`. The application will automatically reload 
 
 
 
 ## Backend 
 Open terminal and Run the following command from the root directory
-`cd backend`
-
-`./mvnw spring-boot:run`
+  
+  -    `cd backend`
+  -    `./mvnw spring-boot:run`
 
 
 Project Demo
